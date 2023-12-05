@@ -1,1 +1,1 @@
-# Summerize-App
+# sumarizeApp
